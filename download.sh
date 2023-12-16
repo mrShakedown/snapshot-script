@@ -59,7 +59,7 @@ else
 fi
 
 echo -e "----- Downloading new snapshot -----\n"
-wget https://archive.quai.network/quai_colosseum_backup.tar.zst/
+wget https://archive.quai.network/quai_colosseum_backup.tar.zst
 echo -e "\n----- New snapshot downloaded -----\n"
 
 
